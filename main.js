@@ -12,4 +12,3 @@ const action = document.querySelector('#input');
 
 action.addEventListener('focus', focus);
 action.addEventListener('blur', blur);
-
